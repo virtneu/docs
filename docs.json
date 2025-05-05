@@ -58,18 +58,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Website",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "Forum",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Support",
+          "href": "mailto:support@virtneu.com",
           "icon": "newspaper"
         }
       ]
